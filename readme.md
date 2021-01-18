@@ -5,14 +5,14 @@
 
 ## Learning Objectives
 
-- We will learn about Bulma Css
-- You will be able to create a responsive page
+- We will learn about Bulma Css.
+- You will be able to create a responsive page.
 
 
 ##The Mission
 We will be building a landing page for a product using bulma css and it will be fully responsive and also add other interactive elements such as modals and tabbed content.
 
-Just think of a product that you would want to create a landing page for
+Just think of a product that you would want to create a landing page for.
 
 ## Quick install
 
@@ -49,26 +49,27 @@ We are all Set to Start.
 
 #Note!!!
 The landing page will be built on using the documentation. 
-The details below will contain some tips to get you started when creating your landing page
+The details below will contain some tips to get you started when creating your landing page.
 
 
 ## Must haves 
 
-- Header with Menu and navigation
-- Navbar 
-- Breadcrumbs
-- Tabbed Content
-- Cards
-- Forms
-- Buttons
-- Footer with Name and year
+- Header with Menu and navigation .
+- Navbar .
+- Breadcrumbs.
+- Tabbed Content.
+- Cards.
+- Forms.
+- Buttons.
+- Footer with Name and year.
+- Use javascript to add functionality to the page elements.
 
 ## Nice to have
 
 - Multiple products.
-- Price in Euros
-- Add Pagination 
-- Add Notification 
+- Price in Euros.
+- Add Pagination .
+- Add Notification .
 
 Dont forget!!! 
 ### Google is your Friend
