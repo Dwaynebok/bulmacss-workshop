@@ -48,14 +48,14 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 We are all Set to Start.
 
 # Note!!!
-The landing page will be built on using the documentation. 
+Be sure to Consult the official documentation.
 The details below will contain some tips to get you started when creating your landing page.
 
 
 ## Must haves 
 
 - Header with Menu and navigation .
-- Navbar .
+- Responsive Navbar .
 - Breadcrumbs.
 - Tabbed Content.
 - Cards.
