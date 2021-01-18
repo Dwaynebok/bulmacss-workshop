@@ -72,5 +72,5 @@ The details below will contain some tips to get you started when creating your l
 - Add Notification .
 
 Dont forget!!! 
-### Google is your Friend
+### Google is your Friend and Get Creative!!!
 ![Alt Text](https://media.giphy.com/media/DWUEBCadFCSc0/giphy.gif)
