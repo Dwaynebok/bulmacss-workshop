@@ -47,7 +47,7 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 
 We are all Set to Start.
 
-#Note!!!
+# Note!!!
 The landing page will be built on using the documentation. 
 The details below will contain some tips to get you started when creating your landing page.
 
