@@ -48,9 +48,9 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 
 3.  
 Copy the starter Template  from the online documentation from above to get us started and save it in your HTML file.
-```sh
- [Starter Template.](https://bulma.io/documentation/overview/start/#starter-template)
-```
+
+ [Starter Template] https://bulma.io/documentation/overview/start/#starter-template
+
 We are all Set to Start.
 
 #Note!!!
