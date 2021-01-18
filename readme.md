@@ -9,7 +9,7 @@
 - You will be able to create a responsive page.
 
 
-##The Mission
+## The Mission
 We will be building a landing page for a product using bulma css and it will be fully responsive and also add other interactive elements such as modals and tabbed content.
 
 Just think of a product that you would want to create a landing page for.
