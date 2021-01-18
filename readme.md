@@ -52,7 +52,8 @@ The landing page will be built on using the documentation.
 The details below will contain some tips to get you started when creating your landing page
 
 
-##Details
+## Must haves 
+
 - Navbar 
 - Breadcrumbs
 - Tabbed Content
@@ -60,11 +61,10 @@ The details below will contain some tips to get you started when creating your l
 - Forms
 - Buttons
 
-#Colors
-For the colors just as we know with bootstrap 
-we can use these for our text and buttons when creating our page.
+## Nice to have
 
-Eg. 
-- is-primary (blue)
-- is-warning (yellow)
+- Multiple products.
+- Price in Euros
+- Add Pagination 
+- Add Notification 
 
