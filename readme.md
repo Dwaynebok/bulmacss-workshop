@@ -72,4 +72,4 @@ The details below will contain some tips to get you started when creating your l
 
 Dont forget!!! 
 ### Google is your Friend
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/DWUEBCadFCSc0/giphy.gif)
