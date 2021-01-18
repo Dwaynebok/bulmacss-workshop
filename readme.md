@@ -70,3 +70,6 @@ The details below will contain some tips to get you started when creating your l
 - Add Pagination 
 - Add Notification 
 
+Dont forget!!! 
+### Google is your Friend
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
