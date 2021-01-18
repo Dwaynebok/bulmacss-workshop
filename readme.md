@@ -13,43 +13,37 @@
 We will be building a landing page for a product using bulma css and it will be fully responsive and also add other interactive elements such as modals and tabbed content.
 
 Just think of a product that you would want to create a landing page for
+
 ## Quick install
 
-###first:
+### first:
 ```sh
-- create a repository on Github.
-
-- clone your repo into your root/folder you prefer.
-
-- open your project your using your preferred IDE.
+- Start with a complete fresh repo.
 ```
+
 There are several ways to install Bulma Css.
-we will go for the simple one.
+Choose one of the following ways to install Bulma.
 
 1.  
 ```sh
 npm install bulma (into your project folder)
 ```
 
-2. 
-```sh
-Set up your basic files, index.html and your css file as well as your js file because we will
-be writing some basic javascript functions to help woth our buttons.
-```
-
-### CDN
+2.
+    CDN
+    
 [https://www.jsdelivr.com/package/npm/bulma](https://www.jsdelivr.com/package/npm/bulma)
 
 Feel free to raise an issue or submit a pull request.
 
+
+3. 
+    [Starter Template] https://bulma.io/documentation/overview/start/#starter-template
+
+
 # Documentation
 
 Browse the [online documentation here.](https://bulma.io/documentation/overview/start/)
-
-3.  
-Copy the starter Template  from the online documentation from above to get us started and save it in your HTML file.
-
- [Starter Template] https://bulma.io/documentation/overview/start/#starter-template
 
 We are all Set to Start.
 
