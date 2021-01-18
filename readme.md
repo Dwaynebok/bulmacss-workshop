@@ -54,12 +54,14 @@ The details below will contain some tips to get you started when creating your l
 
 ## Must haves 
 
+- Header with Menu and navigation
 - Navbar 
 - Breadcrumbs
 - Tabbed Content
 - Cards
 - Forms
 - Buttons
+- Footer with Name and year
 
 ## Nice to have
 
