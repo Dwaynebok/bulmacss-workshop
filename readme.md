@@ -48,7 +48,7 @@ Browse the [online documentation here.](https://bulma.io/documentation/overview/
 We are all Set to Start.
 
 #Note!!!
-Most of the page will be built on using the documentation. 
+The landing page will be built on using the documentation. 
 The details below will contain some tips to get you started when creating your landing page
 
 
@@ -62,8 +62,9 @@ The details below will contain some tips to get you started when creating your l
 
 #Colors
 For the colors just as we know with bootstrap 
-we acan use these for our text and buttons when creating our page.
+we can use these for our text and buttons when creating our page.
 
 Eg. 
 - is-primary (blue)
-- is warning (yellow)
+- is-warning (yellow)
+
